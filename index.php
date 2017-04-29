@@ -8,7 +8,7 @@
     <body>
         <form   
             action="compara.php" method="post">
-                Nombre
+                Nombrea
                 <input type="text" name="nom" placeholder="Nombre"><br>
                 Pasword
                 <input type="password" name="pass" maxlength="10"required="true" ><br>
